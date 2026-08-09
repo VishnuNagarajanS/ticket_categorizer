@@ -1,0 +1,61 @@
+subject,body,category
+"Invoice not received","I did not receive my invoice for last month's subscription payment. Can you resend it to my email?",Billing
+"Charged twice this month","My card was charged two times for the same subscription plan. Please refund the duplicate charge.",Billing
+"Update payment method","I want to change my credit card details on file before my next billing cycle.",Billing
+"Refund request for cancelled plan","I cancelled my subscription last week but I was still billed. I need a refund for this charge.",Billing
+"Question about my invoice amount","The amount on my latest invoice looks higher than usual. Can someone explain the extra charges?",Billing
+"Subscription upgrade cost","How much extra will I be charged if I upgrade from the basic to the premium plan?",Billing
+"Billing address change","I moved recently and need to update my billing address for future invoices.",Billing
+"Failed payment notification","I got an email saying my payment failed but my card has sufficient balance. Please check.",Billing
+"Annual plan discount query","Is there a discount if I pay for the annual plan instead of monthly billing?",Billing
+"Late payment penalty","I was charged a late fee even though I paid on time. Please review my payment history.",Billing
+"Wrong amount deducted","An incorrect amount was deducted from my account this billing cycle, please correct it.",Billing
+"Cancel auto renewal","I want to stop the automatic renewal of my subscription and avoid future billing.",Billing
+"GST invoice request","Can you provide a GST compliant invoice for my company's accounting records?",Billing
+"Downgrade plan and refund","I downgraded my plan mid cycle, will I get a prorated refund for the unused days?",Billing
+"Payment gateway error","I tried to pay using UPI but the transaction failed and money was deducted from my bank.",Billing
+"App crashes on login","The mobile app crashes every time I try to log in after the latest update.",Technical
+"Website not loading","The dashboard page keeps showing a blank white screen, nothing loads no matter what I try.",Technical
+"Server down error 500","I am getting a 500 internal server error whenever I try to submit the form on your site.",Technical
+"Password reset not working","I requested a password reset but the reset link in the email is broken and does not open.",Technical
+"Feature not working after update","After the recent app update, the file upload feature stopped working completely for me.",Technical
+"Login page stuck loading","The login page just keeps spinning and never actually logs me into my account.",Technical
+"API returning errors","Our integration with your API started returning 403 errors since yesterday morning.",Technical
+"Data not syncing","My data is not syncing between the desktop app and the mobile app anymore.",Technical
+"Cannot upload files","Every time I try to upload a document larger than 5MB the upload fails silently.",Technical
+"App is very slow","The application has become extremely slow and laggy over the past few days.",Technical
+"Notifications not received","I stopped receiving push notifications on my phone even though they are enabled in settings.",Technical
+"Bug in reporting dashboard","The reporting dashboard is showing duplicate rows and incorrect totals, seems like a bug.",Technical
+"Two factor authentication broken","I cannot complete two factor authentication, the OTP never arrives on my phone.",Technical
+"Export to CSV fails","When I click export to CSV the page freezes and nothing downloads.",Technical
+"Integration with third party tool broken","Our Slack integration stopped working after your last release, messages are not being sent.",Technical
+"Leave application status","I submitted a leave application last week and want to know the current approval status.",HR
+"Salary slip not generated","My salary slip for this month has not been generated yet on the HR portal.",HR
+"Query about maternity leave policy","Can you share the details of the company's maternity leave policy and eligibility?",HR
+"Reimbursement claim pending","I submitted my travel reimbursement claim three weeks ago and it is still pending approval.",HR
+"Offer letter clarification","I have a few questions regarding the terms mentioned in my offer letter.",HR
+"Health insurance enrollment","I want to add my spouse as a dependent under the company health insurance plan.",HR
+"Resignation process query","What is the notice period and process I need to follow to resign from the company?",HR
+"Performance review schedule","When is my next performance review scheduled and who will be conducting it?",HR
+"Provident fund transfer","I need help transferring my provident fund from my previous employer to this company.",HR
+"Work from home policy","Could you clarify the current work from home policy and how many days are allowed per week?",HR
+"Onboarding documents missing","I have not received the onboarding documents that were promised during my joining.",HR
+"Payroll discrepancy this month","There is a mismatch between my agreed salary and the amount credited this month.",HR
+"Request for experience letter","I need an experience letter for my previous role, who should I contact for this?",HR
+"Team transfer request","I would like to request a transfer to a different team within the company.",HR
+"Harassment complaint process","I want to know the confidential process for filing a workplace harassment complaint.",HR
+"General inquiry about services","I just wanted to know more about what services your company offers overall.",General
+"How to contact support team","What is the best way to reach your support team for non urgent questions?",General
+"Business hours question","What are your customer support working hours and are you open on weekends?",General
+"Partnership opportunity inquiry","We are interested in exploring a potential partnership with your company, who should we talk to?",General
+"Feedback about your product","Just wanted to share some general feedback about my overall experience using your product.",General
+"Newsletter subscription question","How do I subscribe or unsubscribe from your company newsletter?",General
+"Career opportunities inquiry","Are there any open positions currently available at your company?",General
+"Request for company brochure","Can you send me a brochure or overview document about your company and products?",General
+"Media inquiry request","I am a journalist and would like some information for an article about your company.",General
+"General thank you note","Just wanted to say thank you, your product has been really helpful for our team.",General
+"Where is your office located","Could you share your office address, I would like to visit in person.",General
+"Question about company history","I am curious about when the company was founded and its overall mission.",General
+"Vendor registration inquiry","How can our company register as a vendor or supplier with your organization?",General
+"Suggestion for new feature","I have a general suggestion for a feature that could improve the product experience.",General
+"Do you offer student discounts","I am a student, do you have any special discounted pricing plans available for students?",General
