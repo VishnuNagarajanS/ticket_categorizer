@@ -55,3 +55,6 @@ rule layer tags tickets as Urgent/Normal independent of the category model.
 - For production, I'd log every low-confidence/misrouted ticket and use it
   to retrain periodically — that feedback loop matters more long-term than
   the initial model choice.
+
+## Github Link
+https://github.com/VishnuNagarajanS/ticket_categorizer
